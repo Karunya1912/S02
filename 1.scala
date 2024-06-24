@@ -12,7 +12,7 @@ object demo{
         println(k+12*m)
         println(m.toFloat/j)
         println(n%j)
-        println(m.toFloat/(j*j))
+        println(m.toFloat/j*j)
         println(f+10*5+g)
         i=i+1
         println(i*n)
