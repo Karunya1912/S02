@@ -1,0 +1,10 @@
+Java:
+1.we can use prefix,postfix
+2.You can directly assign multiple variables the same value in a single line 
+3.Object-oriented programming language
+
+Scala:
+
+1.We can't use prefix,postfix
+2.You cannot directly assign multiple variables the same value in a single line 
+3.Functional  programming language
