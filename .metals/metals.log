@@ -14,3 +14,444 @@
 2024.06.24 21:30:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\scala"): CreateProcess error=2, The system cannot find the file specified
 2024.06.24 21:30:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\scala\.scala-build\stacktraces\1719244844-2112947247235263174.log'
 2024.06.24 21:30:44 INFO  no build target found for C:\Users\Acer\Desktop\S02\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:30:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:30:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:30:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:30:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02 old\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:30:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:30:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:30:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\web devlopment)
+2024.06.24 21:30:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:30:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719244844-4207701313791621544.log'
+2024.06.24 21:30:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\web devlopment\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:30:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\web devlopment"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:30:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\web devlopment\.scala-build\stacktraces\1719244845-4508310998796800880.log'
+2024.06.24 21:30:46 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/S02/1.scala
+2024.06.24 21:30:46 INFO  Running List(C:\Users\Acer\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\Acer\Desktop\S02)
+2024.06.24 21:30:46 INFO  Attempting to connect to the build server...
+2024.06.24 21:30:46 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\S02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\S02)
+2024.06.24 21:30:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\S02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:30:47 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\S02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:30:47 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\S02\.scala-build\stacktraces\1719244846-767946418985572982.log'
+2024.06.24 21:31:12 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:12 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/S02/2.scala
+2024.06.24 21:31:17 INFO  no build target found for C:\Users\Acer\Desktop\S02\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:17 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/S02/3.scala
+2024.06.24 21:31:23 INFO  no build target found for C:\Users\Acer\Desktop\S02\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:23 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/S02/4.scala
+2024.06.24 21:31:24 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:31:24 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:31:24 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:31:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:31:24 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:31:24 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719244884-8852349320715363170.log'
+2024.06.24 21:31:31 INFO  no build target found for C:\Users\Acer\Desktop\scala\for.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:31 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:32 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:39 INFO  no build target found for C:\Users\Acer\Desktop\S02\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:39 INFO  no build target found for C:\Users\Acer\Desktop\S02\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:40 WARN  no build target for: C:\Users\Acer\Desktop\S02\1.scala
+2024.06.24 21:31:40 INFO  no build target found for C:\Users\Acer\Desktop\S02\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:41 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:41 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:41 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:41 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:43 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:31:43 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:31:43 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\scala\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\scala)
+2024.06.24 21:31:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\scala\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:31:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\scala"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:31:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\scala\.scala-build\stacktraces\1719244904-17804883808739814775.log'
+2024.06.24 21:31:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:31:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:31:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:31:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02 old\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:31:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:31:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:31:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\web devlopment)
+2024.06.24 21:31:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\web devlopment\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:31:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:31:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719244904-1992651463778525547.log'
+2024.06.24 21:31:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\web devlopment"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:31:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\web devlopment\.scala-build\stacktraces\1719244905-16113003782225405132.log'
+2024.06.24 21:31:46 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:46 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/S02/2.scala
+2024.06.24 21:31:46 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:31:46 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:31:46 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\S02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\S02)
+2024.06.24 21:31:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\S02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:31:47 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\S02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:31:47 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\S02\.scala-build\stacktraces\1719244907-13854093401400091550.log'
+2024.06.24 21:31:47 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:47 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:48 WARN  no build target for: C:\Users\Acer\Desktop\S02\2.scala
+2024.06.24 21:31:47 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:48 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:50 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:50 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:50 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:50 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:50 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:50 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:51 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:54 INFO  no build target found for C:\Users\Acer\Desktop\S02\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:54 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/S02/3.scala
+2024.06.24 21:31:55 INFO  no build target found for C:\Users\Acer\Desktop\S02\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:55 INFO  no build target found for C:\Users\Acer\Desktop\S02\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:56 WARN  no build target for: C:\Users\Acer\Desktop\S02\3.scala
+2024.06.24 21:31:56 INFO  no build target found for C:\Users\Acer\Desktop\S02\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:56 INFO  no build target found for C:\Users\Acer\Desktop\S02\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:57 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:57 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:31:57 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:02 INFO  no build target found for C:\Users\Acer\Desktop\S02\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:02 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/S02/4.scala
+2024.06.24 21:32:03 INFO  no build target found for C:\Users\Acer\Desktop\S02\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:04 INFO  no build target found for C:\Users\Acer\Desktop\S02\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:04 WARN  no build target for: C:\Users\Acer\Desktop\S02\4.scala
+2024.06.24 21:32:04 INFO  no build target found for C:\Users\Acer\Desktop\S02\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:04 INFO  no build target found for C:\Users\Acer\Desktop\S02\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:06 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:10 INFO  no build target found for C:\Users\Acer\Desktop\S02\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:14 INFO  no build target found for C:\Users\Acer\Desktop\S02\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:32:24 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:32:24 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:32:24 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:32:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:32:25 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:32:25 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719244944-8758539179005493136.log'
+2024.06.24 21:32:43 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:32:43 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:32:43 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\scala\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\scala)
+2024.06.24 21:32:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\scala\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:32:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\scala"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:32:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\scala\.scala-build\stacktraces\1719244964-15285984145244947298.log'
+2024.06.24 21:32:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:32:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:32:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:32:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02 old\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:32:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:32:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719244964-6814399443854221667.log'
+2024.06.24 21:32:45 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:32:45 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:32:45 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\web devlopment)
+2024.06.24 21:32:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\web devlopment\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:32:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\web devlopment"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:32:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\web devlopment\.scala-build\stacktraces\1719244965-15133567426701297454.log'
+2024.06.24 21:32:46 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:32:46 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:32:46 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\S02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\S02)
+2024.06.24 21:32:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\S02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:32:47 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\S02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:32:47 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\S02\.scala-build\stacktraces\1719244967-4484174255921213012.log'
+2024.06.24 21:33:24 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:33:24 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:33:24 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:33:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:33:25 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:33:25 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719245004-2312183090578478756.log'
+2024.06.24 21:33:42 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:42 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:43 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:33:43 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:33:43 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\scala\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\scala)
+2024.06.24 21:33:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\scala\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:33:44 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\scala"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:33:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\scala\.scala-build\stacktraces\1719245024-17929562625719372004.log'
+2024.06.24 21:33:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:33:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:33:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:33:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02 old\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:33:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:33:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719245024-10377273076121815228.log'
+2024.06.24 21:33:44 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:45 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:33:45 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:33:45 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\web devlopment)
+2024.06.24 21:33:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\web devlopment\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:33:45 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:45 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/SLS02%20old/1.scala
+2024.06.24 21:33:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\web devlopment"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:33:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\web devlopment\.scala-build\stacktraces\1719245025-12039579950406975921.log'
+2024.06.24 21:33:45 WARN  no build target for: C:\Users\Acer\Desktop\SLS02 old\1.scala
+2024.06.24 21:33:45 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:45 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:45 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/SLS02%20old/1.scala
+2024.06.24 21:33:46 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:46 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:33:46 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:33:46 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\S02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\S02)
+2024.06.24 21:33:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\S02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:33:47 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:47 WARN  Could not find semantic tokens for: file:///C:/Users/Acer/Desktop/SLS02%20old/1.scala
+2024.06.24 21:33:47 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\S02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:33:47 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\S02\.scala-build\stacktraces\1719245027-11355329175744101930.log'
+2024.06.24 21:33:46 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:47 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:48 WARN  no build target for: C:\Users\Acer\Desktop\SLS02 old\1.scala
+2024.06.24 21:33:48 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:48 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:33:56 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:34:20 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:34:24 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:34:24 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:34:24 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:34:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:34:26 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:34:26 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719245065-14514580682882767732.log'
+2024.06.24 21:34:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:34:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:34:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\scala\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\scala)
+2024.06.24 21:34:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\scala\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:34:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\scala"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:34:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\scala\.scala-build\stacktraces\1719245084-2569232371972953749.log'
+2024.06.24 21:34:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:34:44 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:34:44 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\SLS02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\SLS02)
+2024.06.24 21:34:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\SLS02 old\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:34:45 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:34:45 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:34:45 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\web devlopment\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\web devlopment)
+2024.06.24 21:34:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\web devlopment\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:34:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\SLS02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:34:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\SLS02\.scala-build\stacktraces\1719245085-18311518228990672146.log'
+2024.06.24 21:34:45 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\web devlopment"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:34:45 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\web devlopment\.scala-build\stacktraces\1719245085-6117023517130658062.log'
+2024.06.24 21:34:46 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:34:46 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:34:46 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\S02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\S02)
+2024.06.24 21:34:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\S02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:34:47 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\S02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:34:47 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\S02\.scala-build\stacktraces\1719245087-627538436999026878.log'
+2024.06.24 21:35:25 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:35:25 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 21:35:25 INFO  Database: jdbc:h2:file:C:\Users\Acer\Desktop\SLS02\.metals\metals (H2 2.2)
+2024.06.24 21:35:25 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.24 21:35:25 INFO  Successfully validated 6 migrations (execution time 00:00.005s)
+2024.06.24 21:35:25 INFO  Current version of schema "PUBLIC": 6
+2024.06.24 21:35:25 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.06.24 21:35:25 INFO  no build target found for C:\Users\Acer\Desktop\SLS02\SLS02\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:35:31 INFO  time: code lens generation in 6.44s
+2024.06.24 21:35:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:35:44 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 21:35:44 INFO  no build target found for C:\Users\Acer\Desktop\scala\for.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:35:44 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:35:44 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 21:35:44 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:35:44 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:35:45 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:35:44 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 21:35:45 INFO  no build target found for C:\Users\Acer\Desktop\SLS02 old\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:35:46 ERROR Timeout waiting for 'build/initialize' response
+2024.06.24 21:35:46 WARN  Retrying connection to the build server scala-cli
+2024.06.24 21:35:46 INFO  Running BSP server List(C:\Users\Acer\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Acer\Desktop\S02\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Acer\Desktop\S02\.scala-build\ide-envs.json, C:\Users\Acer\Desktop\S02)
+2024.06.24 21:35:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Acer\Desktop\S02\.metals\bsp.trace.json or C:\Users\Acer\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:35:47 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\S02"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:35:47 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\S02\.scala-build\stacktraces\1719245147-686878126898424116.log'
+2024.06.24 21:35:58 ERROR Running process 'C:\Program Files\Java\Java jdk 11\bin\java -version' failed
+java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java" (in directory "C:\Program Files\Java\Java jdk 11"): CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:46)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.JdkVersion$.fromShell(JavaInteractiveSemanticdb.scala:220)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$3(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$2(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.JdkVersion$.maybeJdkVersionFromJavaHome(JavaInteractiveSemanticdb.scala:209)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:176)
+	at scala.meta.internal.metals.ProjectMetalsLspService.<init>(ProjectMetalsLspService.scala:93)
+	at scala.meta.internal.metals.WorkspaceLspService.createService(WorkspaceLspService.scala:213)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$workspaceFolders$1(WorkspaceLspService.scala:220)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at scala.meta.internal.metals.WorkspaceFolders.initServices(WorkspaceFolders.scala:36)
+	at scala.meta.internal.metals.WorkspaceFolders.$anonfun$changeFolderServices$14(WorkspaceFolders.scala:84)
+	at java.util.concurrent.atomic.AtomicReference.getAndUpdate(AtomicReference.java:188)
+	at scala.meta.internal.metals.WorkspaceFolders.changeFolderServices(WorkspaceFolders.scala:84)
+	at scala.meta.internal.metals.WorkspaceLspService.didChangeWorkspaceFolders(WorkspaceLspService.scala:617)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChangeWorkspaceFolders(DelegatingScalaService.scala:222)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:494)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:46)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.JdkVersion$.fromShell(JavaInteractiveSemanticdb.scala:220)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$3(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$2(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.JdkVersion$.maybeJdkVersionFromJavaHome(JavaInteractiveSemanticdb.scala:209)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:176)
+	at scala.meta.internal.metals.ProjectMetalsLspService.<init>(ProjectMetalsLspService.scala:93)
+	at scala.meta.internal.metals.WorkspaceLspService.createService(WorkspaceLspService.scala:213)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$workspaceFolders$1(WorkspaceLspService.scala:220)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at scala.meta.internal.metals.WorkspaceFolders.initServices(WorkspaceFolders.scala:36)
+	at scala.meta.internal.metals.WorkspaceFolders.$anonfun$changeFolderServices$14(WorkspaceFolders.scala:84)
+	at java.util.concurrent.atomic.AtomicReference.getAndUpdate(AtomicReference.java:188)
+	at scala.meta.internal.metals.WorkspaceFolders.changeFolderServices(WorkspaceFolders.scala:84)
+	at scala.meta.internal.metals.WorkspaceLspService.didChangeWorkspaceFolders(WorkspaceLspService.scala:617)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChangeWorkspaceFolders(DelegatingScalaService.scala:222)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 21:35:58 ERROR Running process 'C:\Program Files\Java\Java jdk 11\bin\java -version' failed
+java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java" (in directory "C:\Program Files\Java\Java jdk 11"): CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:46)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.JdkVersion$.fromShell(JavaInteractiveSemanticdb.scala:220)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$3(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$2(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.JdkVersion$.maybeJdkVersionFromJavaHome(JavaInteractiveSemanticdb.scala:209)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:176)
+	at scala.meta.internal.metals.ProjectMetalsLspService.<init>(ProjectMetalsLspService.scala:93)
+	at scala.meta.internal.metals.WorkspaceLspService.createService(WorkspaceLspService.scala:213)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$workspaceFolders$1(WorkspaceLspService.scala:220)
+	at scala.collection.immutable.List.map(List.scala:251)
+	at scala.meta.internal.metals.WorkspaceFolders.initServices(WorkspaceFolders.scala:36)
+	at scala.meta.internal.metals.WorkspaceFolders.$anonfun$changeFolderServices$14(WorkspaceFolders.scala:84)
+	at java.util.concurrent.atomic.AtomicReference.getAndUpdate(AtomicReference.java:188)
+	at scala.meta.internal.metals.WorkspaceFolders.changeFolderServices(WorkspaceFolders.scala:84)
+	at scala.meta.internal.metals.WorkspaceLspService.didChangeWorkspaceFolders(WorkspaceLspService.scala:617)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChangeWorkspaceFolders(DelegatingScalaService.scala:222)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:494)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:46)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.JdkVersion$.fromShell(JavaInteractiveSemanticdb.scala:220)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$3(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.JdkVersion$.$anonfun$maybeJdkVersionFromJavaHome$2(JavaInteractiveSemanticdb.scala:211)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.JdkVersion$.maybeJdkVersionFromJavaHome(JavaInteractiveSemanticdb.scala:209)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:176)
+	at scala.meta.internal.metals.ProjectMetalsLspService.<init>(ProjectMetalsLspService.scala:93)
+	at scala.meta.internal.metals.WorkspaceLspService.createService(WorkspaceLspService.scala:213)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$workspaceFolders$1(WorkspaceLspService.scala:220)
+	at scala.collection.immutable.List.map(List.scala:251)
+	at scala.meta.internal.metals.WorkspaceFolders.initServices(WorkspaceFolders.scala:36)
+	at scala.meta.internal.metals.WorkspaceFolders.$anonfun$changeFolderServices$14(WorkspaceFolders.scala:84)
+	at java.util.concurrent.atomic.AtomicReference.getAndUpdate(AtomicReference.java:188)
+	at scala.meta.internal.metals.WorkspaceFolders.changeFolderServices(WorkspaceFolders.scala:84)
+	at scala.meta.internal.metals.WorkspaceLspService.didChangeWorkspaceFolders(WorkspaceLspService.scala:617)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChangeWorkspaceFolders(DelegatingScalaService.scala:222)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 21:35:58 WARN  error while creating a backup for log file
+java.nio.file.FileSystemException: C:\Users\Acer\Desktop\scala\.metals\metals.log -> C:\Users\Acer\Desktop\scala\.metals\.backup_logs\2024-06-24\log_21-35-58-687: The process cannot access the file because it is being used by another process
+
+2024.06.24 21:35:58 INFO  logging to files C:\Users\Acer\Desktop\scala\.metals\metals.log,C:\Users\Acer\Desktop\web devlopment\.metals\metals.log
