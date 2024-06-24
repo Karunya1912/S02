@@ -1,0 +1,16 @@
+2024.06.24 21:30:43 INFO  Database: jdbc:h2:file:C:\Users\Acer\Desktop\S02\.metals\metals (H2 2.2)
+2024.06.24 21:30:43 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.24 21:30:43 INFO  Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2024.06.24 21:30:43 INFO  Successfully validated 6 migrations (execution time 00:00.005s)
+2024.06.24 21:30:43 INFO  Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2024.06.24 21:30:43 INFO  Current version of schema "PUBLIC": << Empty Schema >>
+2024.06.24 21:30:43 INFO  Migrating schema "PUBLIC" to version "1 - Create tables"
+2024.06.24 21:30:43 INFO  Migrating schema "PUBLIC" to version "2 - Server discovery"
+2024.06.24 21:30:43 INFO  Migrating schema "PUBLIC" to version "3 - Jar symbols"
+2024.06.24 21:30:43 INFO  Migrating schema "PUBLIC" to version "4 - Fingerprints"
+2024.06.24 21:30:43 INFO  Migrating schema "PUBLIC" to version "5 - Jar type hierarchy"
+2024.06.24 21:30:43 INFO  Migrating schema "PUBLIC" to version "6 - Delete indices"
+2024.06.24 21:30:43 INFO  Successfully applied 6 migrations to schema "PUBLIC", now at version v6 (execution time 00:00.016s)
+2024.06.24 21:30:44 INFO  BSP server: Error: java.io.IOException: Cannot run program "C:\Program Files\Java\Java jdk 11\bin\java.exe" (in directory "C:\Users\Acer\Desktop\scala"): CreateProcess error=2, The system cannot find the file specified
+2024.06.24 21:30:44 INFO  BSP server: For more details, please see 'C:\Users\Acer\Desktop\scala\.scala-build\stacktraces\1719244844-2112947247235263174.log'
+2024.06.24 21:30:44 INFO  no build target found for C:\Users\Acer\Desktop\S02\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
